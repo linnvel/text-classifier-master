@@ -54,5 +54,7 @@ The [pipeline.py](pipeline.py) file contains all functions utilized in the proje
 
 #### Running the code
 
-	python ML.py
-    	python DL.py
+```bash
+python ML.py
+python DL.py
+```
