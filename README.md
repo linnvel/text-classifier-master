@@ -11,9 +11,9 @@ Run `ML.py` to test machine learning models including Naive Bayes, Logitic Regre
 
 Run `DL.py` to test deep learning model consiting of CNN and LSTM.
 
-The data is downloaded from [20Newsgroup](http://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html) and is assumed to be stored in the `..\data\` directory by default.  While running `ML.py` and `DL.py`, it asks you for the root of dataset. You can press `return` to access default directory or supply your own dataset if it has similar directory structure.
+The data is downloaded from [20Newsgroup](http://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html) and is assumed to be stored in the `../data/` directory by default.  While running `ML.py` and `DL.py`, it asks you for the root of dataset. You can press `return` to access default directory or supply your own dataset if it has similar directory structure.
 
-The deep learning model uses glove vectors which can be downloaded [here](http://nlp.stanford.edu/data/glove.6B.zip). Make sure to upzip the corpus folder and store the applied txt file in `..\glove.6B\` folder.
+The deep learning model uses glove vectors which can be downloaded [here](http://nlp.stanford.edu/data/glove.6B.zip). Make sure to upzip the corpus folder and store the applied txt file in `../glove.6B/` folder.
 
 
 ### Requirements
